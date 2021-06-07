@@ -1,3 +1,1 @@
-module github.com/Dukenbayev/testmod
-
-go 1.16
+"module github.com/robteix/testmod/v2" 
